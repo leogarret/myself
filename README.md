@@ -25,8 +25,27 @@ Ce livre est sûrement le livre qui m'en a le plus appris sur le C++. J'ai pris 
 #### [The Cherno](https://www.youtube.com/c/TheChernoProject/featured)
 The Cherno est un Youtubeur qui m'impressionne beaucoup. Il arrive à expliquer des concepts compliqués dans de simples vidéos. Sa chaîne contient une grande quantité de vidéos, vous avez de quoi faire.
 
+### Unity
+Brackeys, Unity Pour les Nuls
+
+### PHP
+Grafikart (Symfony)
+
+### Javascript
+Grafikart
+
+### Wordpress
+Beaucoup en autodidact, mais aussi WP Marmite
+
 ## <a name="devperso">Développement personnel</a> :sunny:
-Blabla...
+Livres :
+Père riche, père pauvre, Deep Working, Miracle Morning, Influence et Manipulation, Le Personal MBA, Réfléchissez et devenez riche
+
+Podcasts :
+Un Jour, Un Entrepreneur (je suis passé dedans)
+
+Chaînes Youtube :
+Antoine BM (créer une aucience, apprendre à vendre), Théophile Eliet (Immobillier, Bourse, Business en ligne), Thami Kabbaj (Investissements), Yomi Denzel (Marketing)
 
 ## <a name="entrepreneuriat">Entrepreneuriat</a> :earth_americas:
 Blabla...
