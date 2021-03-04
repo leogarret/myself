@@ -16,6 +16,27 @@ Bonne lecture :wink:
 
 ## <a name="technique">Ressources techniques</a> :computer:
 
+Voici une liste non exhaustive des ressources que j'utilise apprendre et rester à jour des technologies. Je m'oriente principalement sur des technologies Web :globe_with_meridians:, mais vous trouverez quelques ressources hors du Web.
+
+### Développement Web en général
+
+#### [Grafikart](https://grafikart.fr)
+Ce site internet (également sous forme de chaîne Youtube) et LA plateforme que je conseille pour apprendre le développement Web. Vous y trouverez un cursus complet avec spécialisation front-end & back-end. Dans les sections suivantes, je vais souvent vous recommander une formation issue de ce site.
+
+### [FreeCodeCamp](https://www.freecodecamp.org)
+Cette plateforme entièrement gratuite vous offre des centaines d'heures de formation avec un système très intéressant pour pratiquer en même temps d'apprendre. Je vous conseille vraiment de tester, vous ne serez pas déçu.
+
+### PHP
+
+#### ["Apprendre le PHP" de Grafikart](https://grafikart.fr/formations/php)
+C'est la formation que j'ai utilisée pour m'initier au PHP. Le point fort de cette formation est que vous apprenez en pratiquant. C'est d'ailleurs le cas pour la majorité des ressources que je vous conseille. La pratique > à la théorie.
+
+### Javascript
+Grafikart
+
+### Wordpress
+Beaucoup en autodidact, mais aussi WP Marmite
+
 ### C++
 
 #### [C++ Primer - Livre de Josée Lajoie et Stanley B. Lippman](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113)
@@ -27,14 +48,11 @@ The Cherno est un Youtubeur qui m'impressionne beaucoup. Il arrive à expliquer 
 ### Unity
 Brackeys, Unity Pour les Nuls
 
-### PHP
-Grafikart (Symfony)
-
-### Javascript
-Grafikart
-
-### Wordpress
-Beaucoup en autodidact, mais aussi WP Marmite
+### D'autres technologies que j'utilise
+Il m'arrive également d'utiliser les technologies suivantes :
+1. Shopify
+2. Lua
+3. C#
 
 ## <a name="devperso">Développement personnel</a> :sunny:
 Livres :
