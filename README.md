@@ -1,6 +1,6 @@
 # Léo Garret
 
-Voici un aperçu de mon apprentissage, mes recommandations (livres, blogs, chaînes Youtube, etc.) techniques ou non. Qu'est-ce qui me permet d'être productif, aligné sur mes objectifs, etc. ?
+Voici un aperçu de mon apprentissage, mes recommandations (livres, blogs, chaînes Youtube, etc.) techniques ou non. Qu'est-ce qui me permet d'être productif, aligné sur mes objectifs, etc.
 
 ## Table des matières :memo:
 
@@ -12,7 +12,9 @@ Voici un aperçu de mon apprentissage, mes recommandations (livres, blogs, chaî
 6. [Comment me contacter ?](#contact)
 
 ## <a name="introduction">Introduction</a> :boy:
-Blabla...
+Hello, je m'appelle Léo Garret, je suis passionné par l'informatique et l'entrepreneuriat. J'apprends tous les jours, car j'estime que l'apprentissage n'a pas de fin. Si j'ai décidé de créer cette page, c'est pour vous partager toutes mes ressources techniques ou non. Je lis, je m'informe et j'apprends chaque jour.
+
+Bonne lecture :wink:
 
 ## <a name="parcours">Mon parcours jusqu'à maintenant...</a> :rocket:
 Blabla...
