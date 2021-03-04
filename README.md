@@ -2,20 +2,30 @@
 
 Voici un aperçu de mon apprentissage, mes recommandations (livres, blogs, chaînes Youtube, etc.) techniques ou non. Qu'est-ce qui me permet d'être productif, aligné sur mes objectifs, etc. ?
 
-## Table des matières
+## Table des matières :memo:
+
+1. [Introduction](#introduction)
+2. [Mon parcours jusqu'à maintenant...]()
+3. [Ressources techniques]()
+4. [Développement personnel]()
+5. [Entrepreneuriat]()
+6. [Comment me contacter ?]()
+
+## Introduction :boy: [introduction](#introduction)
 Blabla...
 
-## Introduction
+## Mon parcours jusqu'à maintenant... :rocket:
 Blabla...
 
-## Mon parcours jusqu'à maintenant...
+## Ressources techniques :computer:
 Blabla...
 
-## Ressources techniques
+## Développement personnel :sunny:
 Blabla...
 
-## Développement personnel
+## Entrepreneuriat :earth_americas:
 Blabla...
 
-## Entrepreneuriat
-Blabla...
+## Comment me contacter ? :email:
+
+Si vous souhaitez me contacter, vous pouvez vous rendre sur mon profil [Linkedin](https://www.linkedin.com/in/leogarret/) !
