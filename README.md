@@ -5,7 +5,6 @@ Voici un aperçu de mon apprentissage, mes recommandations (livres, blogs, chaî
 ## Table des matières :memo:
 
 1. [Introduction](#introduction)
-2. [Mon parcours jusqu'à maintenant...](#parcours)
 3. [Ressources techniques](#technique)
 4. [Développement personnel](#devperso)
 5. [Entrepreneuriat](#entrepreneuriat)
@@ -15,9 +14,6 @@ Voici un aperçu de mon apprentissage, mes recommandations (livres, blogs, chaî
 Hello, je m'appelle Léo Garret, je suis passionné par l'informatique et l'entrepreneuriat. J'apprends tous les jours, car j'estime que l'apprentissage n'a pas de fin. Si j'ai décidé de créer cette page, c'est pour vous partager toutes mes ressources techniques ou non. Je lis, je m'informe et j'apprends chaque jour.
 
 Bonne lecture :wink:
-
-## <a name="parcours">Mon parcours jusqu'à maintenant...</a> :rocket:
-Blabla...
 
 ## <a name="technique">Ressources techniques</a> :computer:
 Blabla...
