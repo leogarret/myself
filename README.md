@@ -11,7 +11,7 @@ Voici un aperçu de mon apprentissage, mes recommandations (livres, blogs, chaî
 5. [Entrepreneuriat]()
 6. [Comment me contacter ?]()
 
-## Introduction (#introduction) :boy:
+## Introduction {#introduction} :boy:
 Blabla...
 
 ## Mon parcours jusqu'à maintenant... :rocket:
