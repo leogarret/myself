@@ -16,7 +16,14 @@ Hello, je m'appelle Léo Garret, je suis passionné par l'informatique et l'entr
 Bonne lecture :wink:
 
 ## <a name="technique">Ressources techniques</a> :computer:
-Blabla...
+
+## C++
+
+### [C++ Primer - Livre de Josée Lajoie et Stanley B. Lippman](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113)
+Ce livre est sûrement le livre qui m'en a le plus appris sur le C++. J'ai pris beaucoup de plaisir à le lire et à appliquer tous les conseils des auteurs. Si j'avais eu le droit qu'à une seule ressource pour apprendre le C++, j'aurai choisi ce livre sans hésiter !
+
+### [The Cherno](https://www.youtube.com/c/TheChernoProject/featured)
+The Cherno est un Youtubeur qui m'impressionne beaucoup. Il arrive à expliquer des concepts compliqués dans de simples vidéos. Sa chaîne contient une grande quantité de vidéos, vous avez de quoi faire.
 
 ## <a name="devperso">Développement personnel</a> :sunny:
 Blabla...
