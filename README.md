@@ -7,7 +7,6 @@ Voici un aperçu de mon apprentissage, mes recommandations (livres, blogs, chaî
 1. [Introduction](#introduction)
 3. [Ressources techniques](#technique)
 4. [Développement personnel](#devperso)
-5. [Entrepreneuriat](#entrepreneuriat)
 6. [Comment me contacter ?](#contact)
 
 ## <a name="introduction">Introduction</a> :boy:
@@ -46,9 +45,6 @@ Un Jour, Un Entrepreneur (je suis passé dedans)
 
 Chaînes Youtube :
 Antoine BM (créer une aucience, apprendre à vendre), Théophile Eliet (Immobillier, Bourse, Business en ligne), Thami Kabbaj (Investissements), Yomi Denzel (Marketing)
-
-## <a name="entrepreneuriat">Entrepreneuriat</a> :earth_americas:
-Blabla...
 
 ## <a name="contact">Comment me contacter ?</a> :email:
 
