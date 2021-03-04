@@ -5,27 +5,27 @@ Voici un aperçu de mon apprentissage, mes recommandations (livres, blogs, chaî
 ## Table des matières :memo:
 
 1. [Introduction](#introduction)
-2. [Mon parcours jusqu'à maintenant...]()
-3. [Ressources techniques]()
-4. [Développement personnel]()
-5. [Entrepreneuriat]()
-6. [Comment me contacter ?]()
+2. [Mon parcours jusqu'à maintenant...](#parcours)
+3. [Ressources techniques](#technique)
+4. [Développement personnel](#devperso)
+5. [Entrepreneuriat](#entrepreneuriat)
+6. [Comment me contacter ?](#contact)
 
 ## <a name="introduction">Introduction</a> :boy:
 Blabla...
 
-## Mon parcours jusqu'à maintenant... :rocket:
+## <a name="parcours">Mon parcours jusqu'à maintenant...</a> :rocket:
 Blabla...
 
-## Ressources techniques :computer:
+## <a name="technique">Ressources techniques</a> :computer:
 Blabla...
 
-## Développement personnel :sunny:
+## <a name="devperso">Développement personnel</a> :sunny:
 Blabla...
 
-## Entrepreneuriat :earth_americas:
+## <a name="entrepreneuriat">Entrepreneuriat</a> :earth_americas:
 Blabla...
 
-## Comment me contacter ? :email:
+## <a name="contact">Comment me contacter ?</a> :email:
 
 Si vous souhaitez me contacter, vous pouvez vous rendre sur mon profil [Linkedin](https://www.linkedin.com/in/leogarret/) !
