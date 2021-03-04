@@ -23,7 +23,7 @@ Voici une liste non exhaustive des ressources que j'utilise apprendre et rester 
 #### [Grafikart](https://grafikart.fr)
 Ce site internet (également sous forme de chaîne Youtube) et LA plateforme que je conseille pour apprendre le développement Web. Vous y trouverez un cursus complet avec spécialisation front-end & back-end. Dans les sections suivantes, je vais souvent vous recommander une formation issue de ce site.
 
-### [FreeCodeCamp](https://www.freecodecamp.org)
+#### [FreeCodeCamp](https://www.freecodecamp.org)
 Cette plateforme entièrement gratuite vous offre des centaines d'heures de formation avec un système très intéressant pour pratiquer en même temps d'apprendre. Je vous conseille vraiment de tester, vous ne serez pas déçu.
 
 ### PHP
