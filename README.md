@@ -1,2 +1,21 @@
-# myself
-Ici, je poste toutes les ressources techniques ou non, qui me permettent de m'améliorer quotidiennement :books:
+# Léo Garret
+
+Voici un aperçu de mon apprentissage, mes recommandations (livres, blogs, chaînes Youtube, etc.) techniques ou non. Qu'est-ce qui me permet d'être productif, aligné sur mes objectifs, etc. ?
+
+## Table des matières
+Blabla...
+
+## Introduction
+Blabla...
+
+## Mon parcours jusqu'à maintenant...
+Blabla...
+
+## Ressources techniques
+Blabla...
+
+## Développement personnel
+Blabla...
+
+## Entrepreneuriat
+Blabla...
