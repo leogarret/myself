@@ -1,13 +1,14 @@
 # Léo Garret
 
+> ⚠️ La rédaction de cette page n'a pas été encore entièrement terminée. N'hésitez pas à revenir pour voir les mises à jour. Il y a déjà de quoi faire !
+
 Voici un aperçu de mon apprentissage, mes recommandations (livres, blogs, chaînes Youtube, etc.) techniques ou non. Qu'est-ce qui me permet d'être productif, aligné sur mes objectifs, etc.
 
 ## Table des matières :memo:
 
 1. [Introduction](#introduction)
-3. [Ressources techniques](#technique)
-4. [Développement personnel](#devperso)
-6. [Comment me contacter ?](#contact)
+2. [Ressources techniques](#technique)
+3. [Comment me contacter ?](#contact)
 
 ## <a name="introduction">Introduction</a> :boy:
 Hello, je m'appelle Léo Garret, je suis passionné par l'informatique et l'entrepreneuriat. J'apprends tous les jours, car j'estime que l'apprentissage n'a pas de fin. Si j'ai décidé de créer cette page, c'est pour vous partager toutes mes ressources techniques ou non. Je lis, je m'informe et j'apprends chaque jour.
@@ -16,7 +17,7 @@ Bonne lecture :wink:
 
 ## <a name="technique">Ressources techniques</a> :computer:
 
-Voici une liste non exhaustive des ressources que j'utilise apprendre et rester à jour des technologies. Je m'oriente principalement sur des technologies Web :globe_with_meridians:, mais vous trouverez quelques ressources hors du Web.
+Voici une liste non exhaustive des ressources que j'utilise pour apprendre et rester à jour sur les technologies. Je m'oriente principalement sur des technologies Web :globe_with_meridians:, mais vous trouverez quelques ressources hors du Web.
 
 ### Développement Web en général
 
@@ -58,7 +59,7 @@ The Cherno est un Youtubeur qui m'impressionne beaucoup. Il arrive à expliquer 
 ### Unity
 
 ### [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
-C'est LA référence pour apprendre à utiliser Unity. Il a malheuresement arrêté son aventure Youtube, mais les centaines de tutoriels sont toujours en ligne.
+C'est LA référence pour apprendre à utiliser Unity. Il a malheureusement arrêté son aventure Youtube, mais les centaines de tutoriels sont toujours en ligne.
 
 ### [Unity Pour Les Nuls](https://www.youtube.com/channel/UCuU8cONIgZ182KheI1s6HqQ)
 Voici une alternative française pour apprendre à utiliser Unity qui est moins complète que Brackeys, mais qui mérite d'être citée.
